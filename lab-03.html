@@ -468,10 +468,8 @@ ggplot(data = staff_long,
 </div>
 <div id="exercise-5" class="section level2">
 <h2>Exercise 5</h2>
-<pre class="r"><code>## Uncomment and complete the following code
-
-#staff_long &lt;- staff_long %&gt;%
-#  mutate(year = ______(year))</code></pre>
+<pre class="r"><code>staff_long &lt;- staff_long %&gt;%
+  mutate(years = as.numeric(years))</code></pre>
 <pre class="r"><code># Write your code for Exercise 5 here</code></pre>
 </div>
 <div id="exercise-6" class="section level2">
