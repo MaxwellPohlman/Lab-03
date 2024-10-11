@@ -36,8 +36,10 @@ Mathematics- Proportions aren't right
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
-
+People- as a person, it makes me want to kill myself
+Data- unclear how different variables impact the chart
+Computer- likley inefficient for the computer to present variables in this manner. In other words, this is a waste of electricity and RAM.
+Mathematics- no scale, unclear use of proportions. doubtful that it comes out to 100%
 
 
 
