@@ -49,7 +49,10 @@ Mathematics- no scale, unclear use of proportions. doubtful that it comes out to
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+People- very unclear, hard to read countries and what graph is showing
+Data-not clear what data shows
+Computer - Poor showcase of data - very cluttered.
+Mathematics - No clear measurements
 
 
 
