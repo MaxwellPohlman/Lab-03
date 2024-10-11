@@ -129,7 +129,11 @@ ggplot(data = staff_long,
 
 ```{r bad-line-plot}
 # Write your code for Exercise 4 here
-
+ggplot(data = staff_long,
+       mapping = aes(x = years, 
+                     y = percent, 
+                     colour = faculty_type)) +
+  geom_line()
 
 
 ```
