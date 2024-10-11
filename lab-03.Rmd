@@ -63,8 +63,10 @@ Mathematics - No clear measurements
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
-
+People - unclear how to read the x axis or to understand which category countries fit into.
+Data - doesn't portray useful information and abstractly shows developed countries to have the most money.
+Computer - not too computer taxing
+Mathematics - logarithmic x-axis with random placements of income instead of following a regular logarithmic pattern.
 
 
 
